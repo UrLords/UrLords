@@ -1,86 +1,84 @@
 <p align="center">
-  <img src="./assets/profile-console.svg" alt="UrLords profile console" width="100%" />
+  <img src="./assets/profile-console.svg" alt="Erick's build space" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=C9A86C&center=true&vCenter=true&width=720&lines=Building+one+curious+thing+at+a+time;Learning+in+public%2C+shipping+for+real;Ideas+are+better+when+they+actually+run" alt="Typing introduction" />
+  <a href="https://imagemeta.site"><img src="https://img.shields.io/badge/Live%20Project-ImageMeta-A78BFA?style=for-the-badge&labelColor=211A35" alt="ImageMeta" /></a>
+  <a href="https://github.com/UrLords?tab=repositories"><img src="https://img.shields.io/badge/Open-The%20Build%20Shelf-5EEAD4?style=for-the-badge&labelColor=211A35" alt="Repositories" /></a>
+  <a href="https://github.com/UrLords?tab=followers"><img src="https://img.shields.io/github/followers/UrLords?style=for-the-badge&logo=github&label=Follow&color=FB7185&labelColor=211A35" alt="GitHub followers" /></a>
+</p>
+
+<h2 align="center">I like ideas better when they actually run.</h2>
+
+<p align="center">
+  I build web products, management systems, and visual-computing experiments.<br />
+  Usually somewhere between <strong>useful</strong>, <strong>educational</strong>, and <strong>wait... can this work?</strong>
+</p>
+
+## The build shelf
+
+<p align="center">
+  <a href="https://imagemeta.site"><img src="./assets/project-imagemeta.svg" width="49%" alt="Image Metamorphosis project" /></a>
+  <img src="./assets/project-moodzone.svg" width="49%" alt="MoodZone project" />
 </p>
 
 <p align="center">
-  <a href="https://imagemeta.site"><img src="https://img.shields.io/badge/visit-imagemeta.site-C9A86C?style=for-the-badge&labelColor=111820" alt="ImageMeta website" /></a>
-  <a href="https://github.com/UrLords?tab=followers"><img src="https://img.shields.io/github/followers/UrLords?style=for-the-badge&logo=github&label=follow&color=7CC7B8&labelColor=111820" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=UrLords&style=for-the-badge&color=B98AD9&label=PROFILE+PINGS" alt="Profile views" />
-</p>
-
-## Current signal
-
-| Channel | Transmission |
-| :-- | :-- |
-| Building | Useful web tools, experiments, and ideas that refuse to stay in a notes app |
-| Exploring | Full-stack systems, visual computing, creative technology, and better product thinking |
-| Improving | Clean architecture, security, deployment, and making software pleasant to use |
-| Operating mode | Learn, build, test, rethink, repeat |
-| Open to | Interesting projects, thoughtful collaborations, and new things worth learning |
-
-## Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,vite,flask,opencv,postgres,supabase,firebase,git,github,linux,nginx,vercel,figma&perline=8&theme=dark" alt="Technology toolbox" />
-</p>
-
-## Spotlight
-
-<table>
-  <tr>
-    <td width="72%">
-      <h3>Image Metamorphosis</h3>
-      <p>An interactive workspace for learning image processing through visual operations, pixel matrices, histograms, processing pipelines, and document scanning.</p>
-      <a href="https://imagemeta.site"><img src="https://img.shields.io/badge/live-demo-C9A86C?style=flat-square&labelColor=111820" alt="Live demo" /></a>
-      <a href="https://github.com/UrLords/image-metamorphosis"><img src="https://img.shields.io/badge/source-code-7CC7B8?style=flat-square&logo=github&labelColor=111820" alt="Source code" /></a>
-    </td>
-    <td width="28%" align="center">
-      <strong>LEARN</strong><br />
-      <strong>TRANSFORM</strong><br />
-      <strong>UNDERSTAND</strong>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://imagemeta.site"><strong>Open the live project</strong></a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://github.com/UrLords/image-metamorphosis"><strong>Explore the source</strong></a>
-</p>
-
-## GitHub signal
-
-<p align="center">
-  <img height="172" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UrLords&theme=github_dark" alt="GitHub statistics" />
-  <img height="172" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UrLords&theme=github_dark" alt="Repositories by language" />
+  <img src="./assets/project-vision.svg" width="49%" alt="Computer Vision project" />
+  <img src="./assets/project-management.svg" width="49%" alt="Transaction and storage management system" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UrLords&theme=github_dark" alt="GitHub profile details" width="100%" />
+  <a href="https://github.com/UrLords/image-metamorphosis"><strong>ImageMeta source</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/UrLords?tab=repositories"><strong>Browse everything</strong></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UrLords&bg_color=0D1117&color=AAB7C4&line=C9A86C&point=7CC7B8&area=true&area_color=C9A86C&hide_border=true&custom_title=Recent%20Activity" alt="GitHub activity graph" width="100%" />
+## Tools I reach for
+
+<p><strong>Languages & interface</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,vite,tailwind&theme=dark" alt="Languages and frontend tools" />
 </p>
 
-## Contribution arcade
+<p><strong>Backend, data & APIs</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,postgres,supabase,firebase,mysql&theme=dark" alt="Backend and data tools" />
+  <img src="https://img.shields.io/badge/REST%20API-211A35?style=for-the-badge&logo=fastapi&logoColor=5EEAD4" alt="REST API" />
+  <img src="https://img.shields.io/badge/Cloudinary-211A35?style=for-the-badge&logo=cloudinary&logoColor=A78BFA" alt="Cloudinary" />
+</p>
+
+<p><strong>Image processing & computer vision</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-211A35?style=for-the-badge&logo=opencv&logoColor=A78BFA" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/NumPy-211A35?style=for-the-badge&logo=numpy&logoColor=5EEAD4" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pillow-211A35?style=for-the-badge&logo=python&logoColor=FB7185" alt="Pillow" />
+  <img src="https://img.shields.io/badge/Image%20Analysis-211A35?style=for-the-badge&logo=googlelens&logoColor=C4B5FD" alt="Image analysis" />
+</p>
+
+<p><strong>Shipping & keeping it alive</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,nginx,vercel,figma,vscode&theme=dark" alt="Development and deployment tools" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-211A35?style=for-the-badge&logo=githubactions&logoColor=A78BFA" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Gunicorn-211A35?style=for-the-badge&logo=gunicorn&logoColor=5EEAD4" alt="Gunicorn" />
+  <img src="https://img.shields.io/badge/VPS-211A35?style=for-the-badge&logo=serverfault&logoColor=FB7185" alt="VPS deployment" />
+</p>
+
+## Activity, but make it arcade
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UrLords/UrLords/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UrLords/UrLords/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/UrLords/UrLords/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UrLords/UrLords/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UrLords/UrLords/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/UrLords/UrLords/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="100%" />
 </picture>
 
-## Random packet
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UrLords&bg_color=171321&color=C4B5FD&line=A78BFA&point=5EEAD4&area=true&area_color=7C3AED&hide_border=true&custom_title=What%20the%20commits%20have%20been%20up%20to" alt="GitHub activity graph" width="100%" />
 </p>
 
 <p align="center">
-  <samp>Thanks for stopping by. Mind the loose semicolons.</samp>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UrLords&theme=midnight_purple" alt="GitHub profile summary" width="100%" />
+</p>
+
+<p align="center">
+  <sub>Built with curiosity, questionable amounts of browser tabs, and a preference for purple.</sub>
 </p>
