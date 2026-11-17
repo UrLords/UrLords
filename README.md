@@ -72,9 +72,6 @@
   <img src="https://img.shields.io/badge/GitHub-211A35?style=for-the-badge&logo=github&logoColor=E9D5FF" alt="GitHub" />
 </p>
 
-## Currently Building
-
-Building Image Metamorphosis, full-stack applications, and practical management systems. Next: an AI-assisted computer vision lab focused on segmentation, visual understanding, and 3D reconstruction.
 
 ## GitHub Statistics
 
